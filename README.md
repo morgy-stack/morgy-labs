@@ -1,57 +1,83 @@
 # Morgy Labs
 
-Welcome to **Morgy Labs** — a portfolio focused on Data Science, Machine Learning, AI, analytics, commerce, and business innovation.
+### Data Science • Machine Learning • AI • Analytics
 
-## About
+Welcome to **Morgy Labs**, my professional portfolio for exploring and building practical solutions with data, machine learning, and artificial intelligence.
 
-I build practical, data-driven solutions using machine learning, predictive analytics, and intelligent systems.
+I’m focused on turning data into useful insights, predictive models, and intelligent applications that can solve real-world problems.
 
-## Focus Areas
+---
 
-- Data Science & Analytics
-- Machine Learning
+## 🚀 What I Work On
+
+- Data Science & Exploratory Data Analysis
+- Machine Learning & Predictive Modeling
 - Deep Learning
 - Natural Language Processing
-- Predictive Analytics
-- Business & Commerce Analytics
 - Generative AI
-- AI-Powered Applications
+- Business & Commerce Analytics
+- Recommendation Systems
+- Customer Analytics & Forecasting
 
-## Featured Projects
+---
 
-### Customer Churn Prediction
-Machine learning models for identifying customers at risk of churn.
+## 🧠 Technical Skills
 
-### Sentiment Analysis
-Natural language processing for analyzing sentiment in text data.
+**Programming**
+- Python
+- SQL
 
-### Predictive Analytics
-Data-driven forecasting and predictive modeling for business applications.
+**Data Science**
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
 
-### Recommendation System
-Personalized recommendation solutions using machine learning.
+**Machine Learning & AI**
+- Machine Learning
+- Deep Learning
+- NLP
+- Generative AI
+- Predictive Modeling
 
-## Technical Skills
+**Frameworks**
+- TensorFlow
+- PyTorch
 
-**Languages:** Python, SQL
+**Cloud**
+- AWS
 
-**Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+---
 
-**Data:** Pandas, NumPy, Matplotlib
+## 📊 Featured Projects
 
-**AI:** Deep Learning, NLP, Generative AI
+| Project | Description |
+|---|---|
+| **Customer Churn Prediction** | Predict customer churn using machine learning |
+| **Sentiment Analysis** | Analyze sentiment from text using NLP |
+| **Predictive Analytics** | Build predictive models for business decisions |
+| **Recommendation System** | Develop personalized recommendation solutions |
 
-**Cloud:** AWS
+More projects and experiments will be added as the portfolio grows.
 
-## Repository Structure
+---
+
+## 🛠️ Repository Structure
 
 ```text
 morgy-labs/
+│
 ├── data-science/
 ├── machine-learning/
 ├── deep-learning/
 ├── nlp/
+│
 ├── projects/
+│   ├── customer-churn/
+│   ├── sentiment-analysis/
+│   ├── predictive-analytics/
+│   └── recommendation-system/
+│
 ├── datasets/
 ├── notebooks/
 ├── src/
