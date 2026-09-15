@@ -1,6 +1,10 @@
 # Morgy Labs
 
-A portfolio and creative hub for **Data Science, Machine Learning, intelligent systems, commerce, and business innovation**.
+Welcome to **Morgy Labs** — a portfolio focused on Data Science, Machine Learning, AI, analytics, commerce, and business innovation.
+
+## About
+
+I build practical, data-driven solutions using machine learning, predictive analytics, and intelligent systems.
 
 ## Focus Areas
 
@@ -10,16 +14,34 @@ A portfolio and creative hub for **Data Science, Machine Learning, intelligent s
 - Natural Language Processing
 - Predictive Analytics
 - Business & Commerce Analytics
-- AI-powered applications
+- Generative AI
+- AI-Powered Applications
 
-## Projects
+## Featured Projects
 
-| Project | Description |
-|---|---|
-| Customer Churn | Predict customer retention and churn risk |
-| Sentiment Analysis | Analyze sentiment in text data |
-| Predictive Analytics | Build models for business forecasting |
-| Recommendation System | Generate personalized recommendations |
+### Customer Churn Prediction
+Machine learning models for identifying customers at risk of churn.
+
+### Sentiment Analysis
+Natural language processing for analyzing sentiment in text data.
+
+### Predictive Analytics
+Data-driven forecasting and predictive modeling for business applications.
+
+### Recommendation System
+Personalized recommendation solutions using machine learning.
+
+## Technical Skills
+
+**Languages:** Python, SQL
+
+**Machine Learning:** Scikit-learn, TensorFlow, PyTorch
+
+**Data:** Pandas, NumPy, Matplotlib
+
+**AI:** Deep Learning, NLP, Generative AI
+
+**Cloud:** AWS
 
 ## Repository Structure
 
@@ -30,44 +52,7 @@ morgy-labs/
 ├── deep-learning/
 ├── nlp/
 ├── projects/
-├── notebooks/
 ├── datasets/
+├── notebooks/
 ├── src/
-├── tests/
-├── requirements.txt
-└── README.md
-```
-
-## Getting Started
-
-```bash
-git clone https://github.com/morgy-stack/morgy-labs.git
-cd morgy-labs
-python -m venv .venv
-```
-
-Activate the environment:
-
-**Windows**
-```bash
-.venv\Scripts\activate
-```
-
-**macOS/Linux**
-```bash
-source .venv/bin/activate
-```
-
-Install dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
-## Featured Skills
-
-Python • SQL • Machine Learning • Deep Learning • NLP • Data Analytics • Predictive Modeling • TensorFlow • PyTorch
-
-## License
-
-This portfolio is intended for educational and demonstration purposes. Add the appropriate license to individual projects when incorporating third-party code or datasets.
+└── tests/
